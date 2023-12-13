@@ -41,6 +41,60 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Lily",
+      "image": "",
+      "price": "15.00",
+      "id": 11
+    },
+    {
+      "name": "Lily",
+      "image": "",
+      "price": "15.00",
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "name": "Daisy",
+      "image": "",
+      "price": "20.00",
+      "id": 14
+    },
+    {
+      "name": "Daisy",
+      "image": "",
+      "price": "20.00",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "name": "Sunflower",
+      "image": "https://m.media-amazon.com/images/I/71mMuJDf8pL._AC_SX569_.jpg",
+      "price": "12.00",
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "name": "Sunflower",
+      "image": "https://m.media-amazon.com/images/I/71mMuJDf8pL._AC_SX569_.jpg",
+      "price": "12.00",
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
     }
   ]
 }
